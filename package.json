@@ -37,7 +37,7 @@
     "express": "4.18.2",
     "global-modules": "2.0.0",
     "gqlx-apollo-express-server": "0.6.0",
-    "graphql": "16.6.0",
+    "graphql": "16.7.1",
     "node-modules-regexp": "1.0.0",
     "setup-apollo-server-express": "1.4.14"
   }
